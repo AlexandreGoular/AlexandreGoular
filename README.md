@@ -45,5 +45,4 @@
 
 <div style="display: block">
   <img  align="center" alt="Gif" height="130" width="150" src="https://i.pinimg.com/originals/df/0f/99/df0f99889a73fc7256c68eee6582f95a.gif">
-  <img  align="center" alt="Celeste" height="130" width="150" src="https://i.pinimg.com/236x/a9/e6/e5/a9e6e56276dd8ef17eb086fce270d71a.jpg">
 </div>
