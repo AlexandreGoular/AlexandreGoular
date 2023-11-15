@@ -33,10 +33,10 @@
 <div align="center">
   <a href="https://github.com/AlexandreGoular">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true&title_color="ffffff"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=dracula&hide_border=false&&layout=compact&title_color=ffffff"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=dracula&hide_border=false&&layout=compact&title_color=ffffff"/><br>
   </a>
 <div style="display: block">
-  <img style="margin-top:30px" align="center" alt="Gif" height="130" width="150" src="https://i.pinimg.com/originals/df/0f/99/df0f99889a73fc7256c68eee6582f95a.gif">
+  <img  align="center" alt="Gif" height="130" width="150" src="https://i.pinimg.com/originals/df/0f/99/df0f99889a73fc7256c68eee6582f95a.gif">
 </div>
 
 <div align="center">
