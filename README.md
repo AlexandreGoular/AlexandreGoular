@@ -36,7 +36,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=dracula&hide_border=false&&layout=compact&title_color=ffffff"/>
   </a>
 <div style="display: block">
-  <img align="center" alt="Gif" height="40" width="50" src="https://i.pinimg.com/originals/df/0f/99/df0f99889a73fc7256c68eee6582f95a.gif">
+  <img margin-top:30px align="center" alt="Gif" height="90" width="120" src="https://i.pinimg.com/originals/df/0f/99/df0f99889a73fc7256c68eee6582f95a.gif">
 </div>
 
 <div align="center">
