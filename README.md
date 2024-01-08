@@ -32,7 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/AlexandreGoular">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true&title_color="ffffff"/>
+    ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AlexandreGoular&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true&title_color=ffffff)
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=dracula&hide_border=false&&layout=compact&title_color=ffffff"/>
   </a>
 
