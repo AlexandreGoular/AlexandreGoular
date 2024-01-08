@@ -33,7 +33,7 @@
 <div align="center">
   <a href="https://github.com/AlexandreGoular">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&include_all_commits=true&count_private=true&show_icons=true&theme=onedark&bg_color=1C1C1C&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&layout=compact&langs_count=6&theme=blueberry&bg_color=1C1C1C&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&layout=compact&langs_count=6&theme=onedark&bg_color=1C1C1C&hide_border=true"/>
   </a>
 </div>
 
