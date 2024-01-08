@@ -29,22 +29,24 @@
 
 
 
-<div align="center">
-  <a href="https://github.com/AlexandreGoular">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&include_all_commits=true&count_private=true&show_icons=true&theme=onedark&bg_color=1C1C1C&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&layout=compact&langs_count=6&theme=onedark&bg_color=1C1C1C&hide_border=true"/>
-  </a>
-</div><br>
-
-
-<div style="text-align: center;">
-  <a href="https://instagram.com/aledev__" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="display: inline-block;">
-  </a>
-  <a href="mailto:Xandeaugustogoulart@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="display: inline-block;">
-  </a>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="text-align: center;">
+    <a href="https://github.com/AlexandreGoular">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&include_all_commits=true&count_private=true&show_icons=true&theme=onedark&bg_color=1C1C1C&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&layout=compact&langs_count=6&theme=onedark&bg_color=1C1C1C&hide_border=true"/>
+    </a>
+  </div>
+  <br>
+  <div style="text-align: center;">
+    <a href="https://instagram.com/aledev__" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" style="display: inline-block;">
+    </a>
+    <a href="mailto:Xandeaugustogoulart@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="display: inline-block;">
+    </a>
+  </div>
 </div>
+
 
 
 
