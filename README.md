@@ -32,8 +32,11 @@
 
 <div align="center">
   <a href="https://github.com/AlexandreGoular">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=dracula&hide_border=false&&layout=compact&title_color=ffffff"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&include_all_commits=true&count_private=true&show_icons=true&theme=cobalt&bg_color=1C1C1C&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&layout=compact&langs_count=6&theme=cobalt&bg_color=1C1C1C&hide_border=true"/>
   </a>
+</div>
+
 
 <div align="center">
 
