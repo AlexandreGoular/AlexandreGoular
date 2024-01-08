@@ -14,12 +14,7 @@
   <img align="center" alt="postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
 </div>
 
-
-
- 
-
-
-
+<br>
 
 <div align="center">
   <a href="https://github.com/AlexandreGoular">
@@ -28,18 +23,7 @@
   </a>
 </div><br>
 
-
-
-
-
-
 <div align="center">
-
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
 </div><br>
 
-
-<div style="display: block">
-  <img  align="center" alt="Gif" height="130" width="150" src="https://i.pinimg.com/originals/df/0f/99/df0f99889a73fc7256c68eee6582f95a.gif">
-</div>
