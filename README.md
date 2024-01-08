@@ -4,15 +4,13 @@
 - ⚡ Faço Curso Tecnico no IF...
 
 
-<div style="display: inline_block"><br>
-  <p>Technologies</p>
-  <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<div style="background-color: #1C1C1C; padding: 20px;">
+  <p>Skils: </p>
+   <img align="center" alt="Ale-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ale-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ale-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ale-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-Sass" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Ale-Sql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Ale-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
+  <img align="center" alt="Ale-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"/>
   <img align="center" alt="Ale-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 </div>
 
