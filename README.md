@@ -24,6 +24,5 @@
   </a>
 </div><br>
 
-![Profile views](https://komarev.com/ghpvc/?username=AlexandreGoular&color=blueviolet)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api/?username=AlexandreGoular&show_icons=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlexandreGoular)
 
