@@ -24,7 +24,5 @@
   </a>
 </div><br>
 
-<div align="center">  
-  <a href="https://wakatime.com/@AlexandreGoular"><img src="https://wakatime.com/badge/user/AlexandreGoular.svg" alt="Total Coded" /></a>
-</div>
+
 
