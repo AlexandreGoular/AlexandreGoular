@@ -15,7 +15,7 @@
   <img align="center" alt="sass" height="50" width="50" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
 </div><br>
 
-(https://wakatime.com/badge/user/alexandregoular.svg)](https://wakatime.com/@alexandregoular)
+
 
 <div align="center">
   <a href="https://github.com/AlexandreGoular">
@@ -23,5 +23,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&layout=compact&langs_count=6&theme=onedark&bg_color=1C1C1C&hide_border=true"/>
   </a>
 </div><br>
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreGoular&layout=compact)](https://wakatime.com/@AlexandreGoular)
+
 
 
