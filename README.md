@@ -24,5 +24,4 @@
   </a>
 </div><br>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AlexandreGoular)
-
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreGoular)](https://github.com/AlexandreGoular)
