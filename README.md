@@ -13,9 +13,9 @@
   <img align="center" alt="css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="sass" height="50" width="50" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
-</div>
+</div><br>
 
-<br>
+[![wakatime](https://wakatime.com/badge/user/alexandregoular.svg)](https://wakatime.com/@alexandregoular)
 
 <div align="center">
   <a href="https://github.com/AlexandreGoular">
