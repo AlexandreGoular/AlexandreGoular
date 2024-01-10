@@ -19,6 +19,7 @@
 
 <div align="center">
   <a href="https://github.com/AlexandreGoular">
+      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="AlexandreGoular Stars" /> 
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&layout=compact&langs_count=6&theme=nightowl&bg_color=1C1C1C&hide_border=true"/>
 
   </a>
