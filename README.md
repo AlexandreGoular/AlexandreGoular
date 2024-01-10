@@ -24,7 +24,7 @@
   </a>
 </div><br>
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreGoular&layout=compact)](https://wakatime.com/@AlexandreGoular)
+(https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreGoular&layout=compact)](https://wakatime.com/@AlexandreGoular)
 
 
 
