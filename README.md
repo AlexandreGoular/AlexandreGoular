@@ -20,6 +20,10 @@
 <div align="center">
   <a href="https://github.com/AlexandreGoular">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&layout=compact&langs_count=6&theme=nightowl&bg_color=1C1C1C&hide_border=true"/>
+    [![GitHub stars](https://img.shields.io/github/stars/AlexandreGoular/AlexandreGoular.svg)](https://github.com/AlexandreGoular/AlexandreGoular)
+[![GitHub last commit](https://img.shields.io/github/last-commit/AlexandreGoular/AlexandreGoular.svg)](https://github.com/AlexandreGoular/AlexandreGoular)
+[![GitHub issues](https://img.shields.io/github/issues/AlexandreGoular/AlexandreGoular.svg)](https://github.com/AlexandreGoular/AlexandreGoular)
+
   </a>
 </div><br>
 
