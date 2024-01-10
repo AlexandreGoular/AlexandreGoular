@@ -24,8 +24,7 @@
   </a>
 </div><br>
 
-<p align="center">
-  <a href="https://wakatime.com/@AlexandreGoular"><img src="https://wakatime.com/badge/user/AlexandreGoular.svg" alt="Total time coded since Jun 20 2023" /></a>
-</p>
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreGoular)](https://github.com/AlexandreGoular)
+
 
 
