@@ -24,6 +24,6 @@
   </a>
 </div><br>
 
-<div align="center">
-[![Wakatime](https://wakatime.com/badge/user/@AlexandreGoular.svg?layout=compact&theme=dark)](https://github.com/AlexandreGoular)
-</div>
+
+[![Wakatime](https://wakatime.com/badge/user/AlexandreGoular.svg?layout=compact&theme=dark)](https://github.com/AlexandreGoular)
+
