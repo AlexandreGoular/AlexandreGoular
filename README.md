@@ -24,5 +24,3 @@
   </a>
 </div><br>
 
-
-![Wakatime Stats](src="https://wakatime.com/share/@AlexandreGoular/87ce7843-8d46-4572-86fc-3d8c38e5ee3b.svg")
