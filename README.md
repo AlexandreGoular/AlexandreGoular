@@ -15,7 +15,7 @@
   <img align="center" alt="sass" height="50" width="50" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
 </div><br>
 
-[![wakatime](https://wakatime.com/badge/user/alexandregoular.svg)](https://wakatime.com/@alexandregoular)
+(https://wakatime.com/badge/user/alexandregoular.svg)](https://wakatime.com/@alexandregoular)
 
 <div align="center">
   <a href="https://github.com/AlexandreGoular">
