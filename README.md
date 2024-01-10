@@ -25,7 +25,7 @@
 </div><br>
 
 <!--[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=AlexandreGoular)](https://github.com/AlexandreGoular)-->
-<figure><embed src="https://wakatime.com/share/@AlexandreGoular/4b5f609e-b5fd-45b3-ac70-f74804db65bb.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@AlexandreGoular/87ce7843-8d46-4572-86fc-3d8c38e5ee3b.svg"></embed></figure>
 
 
 
