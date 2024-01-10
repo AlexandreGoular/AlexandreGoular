@@ -24,8 +24,6 @@
   </a>
 </div><br>
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api/?username=AlexandreGoular&show_icons=true&hide_border=true)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&layout=compact)
 
 
