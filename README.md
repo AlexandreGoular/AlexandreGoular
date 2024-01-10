@@ -26,3 +26,10 @@
 
 [![Wakatime](https://wakatime.com/badge/user/AlexandreGoular.svg)](https://wakatime.com/@AlexandreGoular)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre Goular github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&langs_count=12&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=AlexandreGoular&layout=compact&theme=prussian&custom_title=Most%20Used%20Languages&langs_count=12&bg_color=0d1117"/><br/>
+  <a href="https://wakatime.com/@AlexandreGoular"><img src="https://wakatime.com/badge/user/AlexandreGoular.svg" alt="Total time coded since Jun 20 2023" /></a>
+</div>
+
