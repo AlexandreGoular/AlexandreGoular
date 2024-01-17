@@ -15,21 +15,21 @@
   <img align="center" alt="sass" height="50" width="50" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
 </div><br>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div align="center";">
 
-  <div style="flex: 1; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="AlexandreGoular's Stats">
-  </div>
+<div width="80%;">
 
-  <div style="flex: 1; margin: 5px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="AlexandreGoular's Top Languages">
-  </div>
-
-  <div style="flex: 1; margin: 5px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=vue-dark&hide_border=false" alt="AlexandreGoular's Streak">
-  </div>
+  ![AlexandreGoular's Stats](https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&width=45%)
+  
+  ![AlexandreGoular's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&width=45%)
 
 </div>
+
+   
+  ![AlexandreGoular's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=vue-dark&hide_border=false)
+
+</div>
+
 
 
 
