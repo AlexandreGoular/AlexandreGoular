@@ -15,21 +15,22 @@
   <img align="center" alt="sass" height="50" width="50" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
 </div><br>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-  <div style="flex: 1; margin-right: 5px;">
+  <div style="flex: 1; margin: 5px;">
     <img src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" alt="AlexandreGoular's Stats">
   </div>
 
-  <div style="flex: 1; margin-left: 5px;">
+  <div style="flex: 1; margin: 5px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&layout=compact" alt="AlexandreGoular's Top Languages">
   </div>
 
-  <div style="flex: 1; margin-top: 20px;">
+  <div style="flex: 1; margin: 5px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=vue-dark&hide_border=false" alt="AlexandreGoular's Streak">
   </div>
 
 </div>
+
 
 
 
