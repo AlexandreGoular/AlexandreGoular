@@ -19,8 +19,6 @@
 
 <div align="center">
  ![AlexandreGoular's Stats](https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
-  ![AlexandreGoular's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=blueberry&hide_border=true)
-  ![AlexandreGoular's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 </div><br>
 
 [![wakatime](https://wakatime.com/badge/user/018cf0c0-80bb-435c-ba5b-49593f6d4d93.svg)](https://wakatime.com/@018cf0c0-80bb-435c-ba5b-49593f6d4d93)
