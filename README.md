@@ -18,7 +18,8 @@
 
 
 ![AlexandreGoular's Stats](https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
+![AlexandreGoular's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=vue-dark&hide_border=false)
+![AlexandreGoular's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 [![wakatime](https://wakatime.com/badge/user/018cf0c0-80bb-435c-ba5b-49593f6d4d93.svg)](https://wakatime.com/@018cf0c0-80bb-435c-ba5b-49593f6d4d93)
 
