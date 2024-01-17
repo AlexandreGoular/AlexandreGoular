@@ -25,3 +25,5 @@
 </div><br>
 
 [![wakatime](https://wakatime.com/badge/user/018cf0c0-80bb-435c-ba5b-49593f6d4d93.svg)](https://wakatime.com/@018cf0c0-80bb-435c-ba5b-49593f6d4d93)
+
+<figure><embed src="https://wakatime.com/share/@AlexandreGoular/42117b02-f4d8-4ae4-a5e8-5975d51e09a2.svg"></embed></figure>
