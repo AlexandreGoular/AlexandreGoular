@@ -15,10 +15,9 @@
   <img align="center" alt="sass" height="50" width="50" s src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
 </div><br>
 
-
 <div align="center">
 
-<table>
+<table bgcolor="transparent">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&width=45%" alt="AlexandreGoular's Stats">
