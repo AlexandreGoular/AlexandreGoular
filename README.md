@@ -26,4 +26,3 @@
 
 [![wakatime](https://wakatime.com/badge/user/018cf0c0-80bb-435c-ba5b-49593f6d4d93.svg)](https://wakatime.com/@018cf0c0-80bb-435c-ba5b-49593f6d4d93)
 
-<img src="https://wakatime.com/share/@AlexandreGoular/787b5b5d-5b4c-4808-99d6-7689c44aa098.png">
