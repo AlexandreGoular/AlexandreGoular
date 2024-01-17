@@ -18,7 +18,7 @@
 
 
 <div align="center">
-
+![AlexandreGoular's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 </div><br>
 ![AlexandreGoular's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
