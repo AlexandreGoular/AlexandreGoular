@@ -17,17 +17,11 @@
 
 <div align="center";">
 
-<div width="80%;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true">
 
-  ![AlexandreGoular's Stats](https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-  
-  ![AlexandreGoular's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact">
 
-</div>
-
-   
-  ![AlexandreGoular's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=vue-dark&hide_border=false)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=vision-friendly-dark&hide_border=true">
 </div>
 
 
