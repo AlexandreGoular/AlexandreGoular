@@ -18,10 +18,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/AlexandreGoular">
-      <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&show_icons=true&count_private=true&hide_border=true&theme=nightowl&bg_color=1C1C1C&alt=AlexandreGoular%20Stars" /> 
-      <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&layout=compact&langs_count=6&theme=nightowl&bg_color=1C1C1C&hide_border=true"/>
-  </a>
+ ![AlexandreGoular's Stats](https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+  ![AlexandreGoular's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=blueberry&hide_border=true)
+  ![AlexandreGoular's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 </div><br>
 
 [![wakatime](https://wakatime.com/badge/user/018cf0c0-80bb-435c-ba5b-49593f6d4d93.svg)](https://wakatime.com/@018cf0c0-80bb-435c-ba5b-49593f6d4d93)
