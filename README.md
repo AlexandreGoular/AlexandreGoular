@@ -17,21 +17,16 @@
 
 <div align="center">
 
-<table bgcolor="transparent">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&width=45%" alt="AlexandreGoular's Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&layout=compact&width=45%" alt="AlexandreGoular's Top Languages">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=vue-dark&hide_border=false" alt="AlexandreGoular's Streak">
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+   ![AlexandreGoular's Stats](https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+  
+  ![AlexandreGoular's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+  ![AlexandreGoular's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=vue-dark&hide_border=false)
+
+</div>
+
 
 </div>
 
