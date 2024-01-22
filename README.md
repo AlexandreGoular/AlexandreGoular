@@ -17,12 +17,15 @@
 
 <div align="center";">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreGoular&theme=react&show_icons=true&hide_border=true&count_private=true">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreGoular&theme=react&show_icons=true&hide_border=true&layout=compact">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandreGoular&theme=react&hide_border=true">
 </div>
 
 <div align="center";>
+
+
 
 [![wakatime](https://wakatime.com/badge/user/018cf0c0-80bb-435c-ba5b-49593f6d4d93.svg)](https://wakatime.com/@018cf0c0-80bb-435c-ba5b-49593f6d4d93)
 
