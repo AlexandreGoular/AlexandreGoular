@@ -2,6 +2,7 @@
 
 - 🌱 Estou estudando Spring ...
 - ⚡ Faço Curso Tecnico no IF...
+- 👩‍💻 17y
 
 
 <div align="center" style="display: inline_block"><br>
