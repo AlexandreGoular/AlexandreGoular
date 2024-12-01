@@ -1,7 +1,5 @@
 ## Olá! Eu sou Alexandre Goulart
 
-<img width="100%" src="https://i.pinimg.com/originals/02/35/ec/0235ec5e11915cefe114bd4faecb7a82.jpg" height="500">
-
 - 🌱 Estou estudando Spring ...
 
 <div align="center" style="display: inline_block"><br>
@@ -30,4 +28,6 @@
 [![wakatime](https://wakatime.com/badge/user/018cf0c0-80bb-435c-ba5b-49593f6d4d93.svg)](https://wakatime.com/@018cf0c0-80bb-435c-ba5b-49593f6d4d93)
 
 </div>
+
+<img width="100%" src="https://i.pinimg.com/originals/02/35/ec/0235ec5e11915cefe114bd4faecb7a82.jpg" height="500">
 
