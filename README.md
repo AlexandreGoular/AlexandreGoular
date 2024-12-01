@@ -1,6 +1,6 @@
 ## Olá! Eu sou Alexandre Goulart
 
-<img width="100%" src="https://i.pinimg.com/originals/02/35/ec/0235ec5e11915cefe114bd4faecb7a82.jpg" height="400">
+<img width="100%" src="https://i.pinimg.com/originals/02/35/ec/0235ec5e11915cefe114bd4faecb7a82.jpg" height="500">
 
 - 🌱 Estou estudando Spring ...
 
