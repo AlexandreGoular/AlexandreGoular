@@ -1,6 +1,5 @@
 ## Olá! Eu sou Alexandre Goulart
 
-- 🌱 Estou estudando Go ...
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="postgres" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
